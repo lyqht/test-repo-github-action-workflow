@@ -1,0 +1,12 @@
+name: Article Count workflow
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lyqht/article-count-workflow@main
+        with:
+          feed_list: "https://esteetey.dev/rss.xml"
