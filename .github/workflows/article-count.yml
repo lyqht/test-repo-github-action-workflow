@@ -10,3 +10,4 @@ jobs:
       - uses: lyqht/article-count-workflow@main
         with:
           feed_list: "https://esteetey.dev/rss.xml"
+          readme_path: "README.md"
