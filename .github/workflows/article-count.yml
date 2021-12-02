@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lyqht/article-count-workflow@main
+      - uses: lyqht/article-count-workflow@badge-maker
         with:
           feed_list: "https://esteetey.dev/rss.xml"
           readme_path: "README.md"
