@@ -1,3 +1,3 @@
 # test-repo-github-action-workflow
 
-<!-- ARTICLE_BADGE:START --><img alt="Website" src="https://img.shields.io/website?label=technical%20blog📝&up_message=18%20articles&url=https%3A%2F%2Festeetey.dev"></img><!-- ARTICLE_BADGE:END -->
+<!-- ARTICLE_BADGE:START --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="176" height="20" role="img" aria-label="technical blog: 18%20articles"><title>technical blog: 18%20articles</title><g shape-rendering="crispEdges"><rect width="87" height="20" fill="#555"/><rect x="87" width="89" height="20" fill="#97ca00"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="445" y="140" transform="scale(.1)" fill="#fff" textLength="770">technical blog</text><text x="1305" y="140" transform="scale(.1)" fill="#fff" textLength="790">18%20articles</text></g></svg><!-- ARTICLE_BADGE:END -->
