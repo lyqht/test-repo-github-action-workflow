@@ -17,4 +17,5 @@ jobs:
           badge_style: for-the-badge
           badge_label: "Tech with Catalin 😎"
           badge_message_suffix: "📜"
-          badge_message_bg_color: "#0EB18F"
+          badge_message_bg_color: "#2A61F9"
+          badge_logo: hashnode
