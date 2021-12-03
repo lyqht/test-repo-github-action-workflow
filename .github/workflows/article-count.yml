@@ -1,4 +1,4 @@
-name: Article Count workflow
+name: Article Counter Badge Workflow
 on:
   workflow_dispatch:
 
@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lyqht/article-count-workflow@main
+      - uses: lyqht/article-badge-counter-workflow@main
         with:
           feed_list: "https://catalins.tech/rss.xml"
           redirect_link: "https://catalins.tech/"
